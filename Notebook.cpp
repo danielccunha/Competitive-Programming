@@ -15,3 +15,6 @@ bool isPrime(int n)
 
 	return true;
 }
+
+// Ler string com fgets
+// fgets(nome_da_string, tam_string, stdin);
