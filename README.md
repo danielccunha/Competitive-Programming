@@ -1,2 +1,4 @@
 # Competitive-Programming
-Repository for competitive programming codes
+Repository for solved competitive programming codes
+
+Repositório para problemas solucionados de programação competitiva
