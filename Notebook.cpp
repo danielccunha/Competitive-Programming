@@ -70,3 +70,9 @@ int merge_sort(vector<int> &v)
 
 // Passar valor de inteiro para string
 sprintf(var_string, "%d", var_inteiro);
+
+// Calcular a soma do intervalo [A, B]
+S = (A + B) * (B - A + 1) / 2;
+
+// Problema de Feynman - Número de quadrados dentro de um quadrado N*N
+N = ((N*(N+1)) * (2*N + 1))/6;
