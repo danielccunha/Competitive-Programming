@@ -1,4 +1,5 @@
-# Competitive-Programming
-Repository for solved competitive programming codes
+# Competitive programming algorithms
+Repository of solved competitive programming problems, developed in C and C++.
 
-Repositório para problemas solucionados de programação competitiva
+## License
+MIT License
